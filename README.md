@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @amirreja
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m @amir reja
+- 🌱 I’m currently pursuing b.tech
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me amirrejadbg@gmail.com
 
